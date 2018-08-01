@@ -1,6 +1,6 @@
 # chick-or-bear
 
-> predict face image
+> A Vue.js project
 
 ## Build Setup
 

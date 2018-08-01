@@ -1,7 +1,7 @@
 {
   "name": "chick-or-bear",
   "version": "1.0.0",
-  "description": "predict face image",
+  "description": "A Vue.js project",
   "author": "hatakeyama taisei <aeiist12th@gmail.com>",
   "private": true,
   "scripts": {
